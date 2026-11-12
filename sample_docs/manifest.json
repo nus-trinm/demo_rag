@@ -1,0 +1,7 @@
+[
+ {"file":"remote_old.docx","tenant":"acme","title":"Remote Work Policy","version":"1","valid_from":"2020-01-01","valid_to":"2024-12-31"},
+ {"file":"remote_current.docx","tenant":"acme","title":"Remote Work Policy","version":"2","valid_from":"2025-01-01","valid_to":"2099-12-31"},
+ {"file":"annual_leave.docx","tenant":"acme","title":"Annual Leave Policy","version":"1","valid_from":"2025-01-01","valid_to":"2099-12-31"},
+ {"file":"travel.pdf","tenant":"acme","title":"Travel Expenses Policy","version":"1","valid_from":"2025-01-01","valid_to":"2099-12-31"},
+ {"file":"northstar.docx","tenant":"northstar","title":"Remote Work Policy","version":"1","valid_from":"2025-01-01","valid_to":"2099-12-31"}
+]
